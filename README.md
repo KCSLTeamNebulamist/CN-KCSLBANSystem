@@ -8,10 +8,10 @@ CN-KCSLBanSystem 是一个基于 **Exiled** 和 **Newtonsoft.Json** 开发的联
 ## 使用说明
 
 1. **安装依赖**：
-   - 将`Newtonsoft.json.dll`安装进插件依赖文件夹
+   - 将Newtonsoft.json.dll安装进插件依赖文件夹
 
 2. **集成系统**：
-   - 将 `KCSL联Ban系统.dll` 文件放入服务器的插件目录中。
+   - 将 KCSL联Ban系统.dll文件放入服务器的插件目录中。
    - 在 Exiled 的配置文件中启用本插件。
 
 3. **配置封禁系统**：
