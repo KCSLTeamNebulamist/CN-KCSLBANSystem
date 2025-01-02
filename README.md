@@ -36,8 +36,7 @@ CN-KCSLBanSystem 是一个基于 **Exiled** 和 **Newtonsoft.Json** 开发的联
 通过以下方式联系我们：)
 
 
-- **反馈邮箱**：KCSLBan@foxmail.com
-- 
+- **邮箱**：KCSLBan@foxmail.com
 ## 免责声明
 
 本系统仅供合法使用，严禁用于任何非法用途。使用本系统即表示您同意遵守相关法律法规，并对使用行为承担全部责任。
